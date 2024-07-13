@@ -7,3 +7,7 @@
 
 https://selvavastaus.onrender.com/
 ![My Image](image.jpg)
+
+### 👨‍🎓 My certificates
+CS50 from Harward University (basics of IT: C, Python, SQL)
+![My Image](CS50x.png)
