@@ -16,7 +16,7 @@ https://selvavastaus.onrender.com/
 ### React, NodeJS, Express, MongoDB, Deploiment Web App (7 credits)
 ![My Image](certificate-fullstack.png)
 
-### ReactNative (2 credits)
+### React Native (2 credits)
 ![My Image](certificate-reactnative.png)
 
 ### GraphQL (1 credit)
