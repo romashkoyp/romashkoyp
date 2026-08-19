@@ -1,39 +1,11 @@
-## :desktop_computer: my stats :
+## My projects:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romashkoyp)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=romashkoyp)](https://git.io/streak-stats)
-
-## :fire: my best projects for now:
-
-https://roomies-frontend-fpzi.onrender.com/
-![My_image](roomies.png)
-
-https://selvavastaus.onrender.com/
-![My Image](image.jpg)
-
-## 👨‍🎓 my certificates
-### CS50x from Harward University (basics of IT: C, Python, SQL)
-![My Image](CS50x.png)
-
-### Full Stack Open from Helsinki University:
-### React, NodeJS, Express, MongoDB, Deploiment Web App (7 credits)
-![My Image](certificate-fullstack.png)
-
-### React Native (2 credits)
-![My Image](certificate-reactnative.png)
-
-### GraphQL (1 credit)
-![My Image](certificate-graphql.png)
-
-### Relational databases (1 credit)
-![My Image](certificate-psql.png)
-
-### TypeScript (1 credit)
-![My Image](certificate-typescript.png)
-
-### CI/CD (1 credit)
-![My Image](certificate-cicd.png)
-
-### Containers (1 credit)
-![My Image](certificate-containers.png)
-
+- [LiveSpeech Translator](https://github.com/romashkoyp/LiveSpeech-Translator) - A real-time voice-to-voice translation and meeting subtitles desktop application powered by the Google Gemini Live API.
+- [Bid Or Not](https://bidornot.vercel.app/) - A SaaS platform that analyzes Finnish public sector procurements from Hilma to recommend bidding strategies and generate structured roadmaps.
+- [Skill Matching Machine](https://romashkoyp.github.io/digivisio_2026/) - An AI-driven tool that matches Finnish job market skill demands with higher education courses to create structured learning roadmaps.
+- [Business Assessment](https://myyntikuntokartoitus.fi/) - A fullstack web application that provides Finnish SME owners with an AI-powered preliminary assessment of their business potential prior to a sale.
+- [Mainos](https://romashkoyp.github.io/mainos/) - An interactive location tracking and campaign management tool for Jyväskylä built with Leaflet.js and IndexedDB.
+- [Roomies App](https://roomies-frontend-fpzi.onrender.com/) - A fullstack room booking and administrative management system built with React, Redux, Node.js, Express, and PostgreSQL.
+- [Armwrestling balance calculator](https://romashkoyp.github.io/strength_balance_calculator/) - A web tool for armwrestlers that evaluates biomechanics across key muscle groups and benchmarks performance against weight-class standards.
+- [Long text to speech](https://tts-frontend-5uxc.onrender.com/) - A single-page application built with React, FastAPI, and edge-tts that converts long text inputs into a single downloadable MP3 file.
+- [Selvä Vastaus](https://selvavastaus.onrender.com/) - A linguistic search application built with Flask and SQLite that helps users locate Finnish words based on their suffixes.
