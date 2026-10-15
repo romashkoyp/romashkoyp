@@ -1,6 +1,7 @@
 ## My projects:
-
-- [LiveSpeech Translator](https://github.com/romashkoyp/LiveSpeech-Translator) - A real-time voice-to-voice translation and meeting subtitles desktop application powered by the Google Gemini Live API.
+- [Speech-to-Text & Diarization Project](https://github.com/romashkoyp/stt) - Transcribe sensitive interviews from audio and video 100% locally.
+- [LiveSpeech Translator for Android](https://play.google.com/store/apps/details?id=com.livespeech_translator) - Translate internal device audio (browser, other apps and foreign speech around you).
+- [LiveSpeech Translator for Windows](https://github.com/romashkoyp/LiveSpeech-Translator) - A real-time voice-to-voice translation and meeting subtitles desktop application powered by the Google Gemini Live API.
 - [Bid Or Not](https://bidornot.vercel.app/) - A SaaS platform that analyzes Finnish public sector procurements from Hilma to recommend bidding strategies and generate structured roadmaps.
 - [Skill Matching Machine](https://romashkoyp.github.io/digivisio_2026/) - An AI-driven tool that matches Finnish job market skill demands with higher education courses to create structured learning roadmaps.
 - [Business Assessment](https://myyntikuntokartoitus.fi/) - A fullstack web application that provides Finnish SME owners with an AI-powered preliminary assessment of their business potential prior to a sale.
