@@ -1,12 +1,20 @@
-## My projects:
+## My projects
+
+### STT, TTS, STS related projects:
 - [Speech-to-Text & Diarization Project](https://github.com/romashkoyp/stt) - Transcribe sensitive interviews from audio and video 100% locally.
 - [LiveSpeech Translator for Android](https://play.google.com/store/apps/details?id=com.livespeech_translator) - Translate internal device audio (browser, other apps and foreign speech around you).
 - [LiveSpeech Translator for Windows](https://github.com/romashkoyp/LiveSpeech-Translator) - A real-time voice-to-voice translation and meeting subtitles desktop application powered by the Google Gemini Live API.
+- [Long text to speech](https://tts-frontend-5uxc.onrender.com/) - A single-page application built with React, FastAPI, and edge-tts that converts long text inputs into a single downloadable MP3 file.
+
+### Hackathon projects:
 - [Bid Or Not](https://bidornot.vercel.app/) - A SaaS platform that analyzes Finnish public sector procurements from Hilma to recommend bidding strategies and generate structured roadmaps.
 - [Skill Matching Machine](https://romashkoyp.github.io/digivisio_2026/) - An AI-driven tool that matches Finnish job market skill demands with higher education courses to create structured learning roadmaps.
 - [Business Assessment](https://myyntikuntokartoitus.fi/) - A fullstack web application that provides Finnish SME owners with an AI-powered preliminary assessment of their business potential prior to a sale.
+
+### B2B projects:
 - [Mainos](https://romashkoyp.github.io/mainos/) - An interactive location tracking and campaign management tool for Jyväskylä built with Leaflet.js and IndexedDB.
 - [Roomies App](https://roomies-frontend-fpzi.onrender.com/) - A fullstack room booking and administrative management system built with React, Redux, Node.js, Express, and PostgreSQL.
+
+### Other projects:
 - [Armwrestling balance calculator](https://romashkoyp.github.io/strength_balance_calculator/) - A web tool for armwrestlers that evaluates biomechanics across key muscle groups and benchmarks performance against weight-class standards.
-- [Long text to speech](https://tts-frontend-5uxc.onrender.com/) - A single-page application built with React, FastAPI, and edge-tts that converts long text inputs into a single downloadable MP3 file.
 - [Selvä Vastaus](https://selvavastaus.onrender.com/) - A linguistic search application built with Flask and SQLite that helps users locate Finnish words based on their suffixes.
